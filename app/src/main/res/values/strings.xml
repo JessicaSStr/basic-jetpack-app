@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JetMilk</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">About</string>
+    <string name="nama">Jessica S Sianturi</string>
+    <string name="about">About Me</string>
+    <string name="email">sianturijessica8@gmail.com</string>
+    <string name="required_price">%d IDR</string>
+    <string name="pediasure">PediaSure sering digunakan sebagai suplemen gizi untuk membantu anak-anak yang mungkin kesulitan mendapatkan nutrisi yang cukup melalui makanan sehari-hari. </string>
+    <string name="dan">Susu formula ini mengandung nutrisi penting seperti protein, lemak, karbohidrat, vitamin, dan mineral yang sesuai dengan kebutuhan bayi usia 1 tahun ke atas. Kandungan gizi yang seimbang membantu mendukung pertumbuhan tulang, otak, dan sistem kekebalan tubuh.</string>
+    <string name="sgm">SGM dirancang untuk memberikan nutrisi yang diperlukan untuk pertumbuhan dan perkembangan bayi pada tahap awal kehidupan. Kandungan nutrisi umumnya mencakup protein, lemak, karbohidrat, vitamin, dan mineral yang dibutuhkan untuk mendukung perkembangan otak, sistem saraf, dan organ tubuh lainnya.</string>
+    <string name="s26">S-26 dirancang agar mudah dicerna oleh sistem pencernaan bayi yang masih berkembang. Beberapa formula dapat mengandung prebiotik atau probiotik untuk mendukung kesehatan saluran pencernaan.</string>
+    <string name="nutrilon">Nutrilon Royal 3 dirancang untuk menyediakan nutrisi yang dibutuhkan oleh anak usia 1-3 tahun selama tahap pertumbuhan dan perkembangan yang intensif. Ini mencakup protein, lemak, karbohidrat, vitamin, dan mineral.</string>
+    <string name="lactogen">Lactogen mungkin mengandung nutrisi tertentu yang dapat mendukung sistem kekebalan tubuh bayi, membantu melindungi mereka dari infeksi dan penyakit.</string>
+    <string name="vidoran">Vidoran susu formula untuk anak usia 1 tahun ke atas biasanya dirancang untuk menyediakan nutrisi tambahan yang sesuai dengan kebutuhan perkembangan anak pada tahap tersebut.</string>
+    <string name="nan">NAN mengandung nutrisi khusus yang mendukung pertumbuhan fisik dan perkembangan kognitif anak. Beberapa susu formula anak dapat mencakup DHA (asam docosahexaenoic) dan ARA (asam arakidonat) untuk mendukung perkembangan otak.</string>
+    <string name="grow">Lactogrow untuk usia 3-5 tahun mungkin dirancang dengan kandungan nutrisi khusus yang sesuai untuk mendukung pertumbuhan dan perkembangan anak dalam rentang usia tersebut.</string>
+    <string name="bmt">Susu formula B.M.T untuk bayi usia 0-6 bulan adalah solusi nutrisi yang dirancang khusus untuk mendukung fase pertumbuhan awal. Dengan formulasi nutrisi yang seimbang, susu ini memberikan dukungan penting untuk perkembangan tulang, otak, dan sistem kekebalan tubuh bayi.</string>
+    <string name="bebelove">Susu formula Bebelove untuk bayi usia 0-6 bulan adalah pilihan nutrisi yang dirancang khusus untuk mendukung perkembangan awal. Dengan kandungan nutrisi yang seimbang, susu ini membantu memenuhi kebutuhan penting bayi dalam pertumbuhan tulang, otak, dan sistem kekebalan tubuh.</string>
+    <string name="bebelac">Susu formula Bebelac 1-3 tahun rasa madu adalah produk nutrisi khusus untuk anak-anak berusia 1-3 tahun. Diformulasikan dengan campuran nutrisi seimbang, termasuk protein, karbohidrat, lemak, dan vitamin esensial. Rasa madu ditambahkan untuk meningkatkan selera anak-anak. Produk ini mendukung pertumbuhan tulang, gigi, dan perkembangan otak.</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d IDR</string>
+    <string name="total_order">Total pesanan : %d IDR</string>
+    <string name="back">Back</string>
+    <string name="formula_milk">Susu Formula</string>
+    <string name="share_message">Hey, I have buy %1$d formula milks in Grocery with total price %2$d IDR. Do you want too?</string>
+</resources>
